@@ -1,2 +1,2 @@
 # todoApplication
-Todo Appication
+Todo Application
